@@ -1,4 +1,4 @@
 # -demo
 this is my demo repo.
 <br>
-author - Hassan Zahid
+author - Hassan Butt
